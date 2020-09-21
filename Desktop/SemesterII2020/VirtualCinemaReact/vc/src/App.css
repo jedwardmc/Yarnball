@@ -1,0 +1,13 @@
+body {
+  background: #1e1e64;
+  padding: 2em; 
+}
+
+.AppHeader {
+    color: white;
+}
+
+.AppHeader h1 {
+    font-size: 2em; 
+}
+
